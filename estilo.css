@@ -147,7 +147,6 @@
     .nosotros {
         max-width: 1100px;
         margin: auto;
-        height: 100vh;
         background-color: #ffffff;
         padding: 100px 20px;
     }
@@ -632,9 +631,6 @@
             display: none;
         }
 
-        .nosotros {
-            margin-bottom: 40vh;
-        }
         .nosotros .fila {
             display: block;
         }
